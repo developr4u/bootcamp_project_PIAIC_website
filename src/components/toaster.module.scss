@@ -1,0 +1,73 @@
+.tab{
+    display: flex;
+}
+.ai{
+  
+   height: 150px;
+   width: 350px;
+   margin-left: 150px;
+}
+.cn{
+  
+   height: 150px;
+   width: 350px;
+   margin-left: 5px;
+}
+.iot{
+    
+    height: 150px;
+   width: 350px;
+   margin-left: 5px;
+    
+}
+.bc{
+   
+   height: 150px;
+   width: 350px;
+   margin-left: 5px;
+}
+
+.header{
+    background: #0c3838;
+    height: 35px;
+}
+.heading{
+    font-size: 1em;
+    color:#0c3838;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.bc_heading{
+    font-size: 1em;
+    color:#535307;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.bcHeader{
+    background: #535307;
+    height: 35px;
+}
+.cnHeader{
+    background: hsl(340, 68%, 55%);
+    height: 35px;
+}
+.cnHeading{
+    font-size: 1em;
+   text-align: center;
+   color: hsl(340, 68%, 55%);
+   margin-top: 20px;
+}
+
+.aiHeading{
+    font-size: 1em;
+   text-align: center;
+   color: #1411db;
+   margin-top: 20px;
+  
+}
+.aiHeader{
+    background: #1411db;
+    height: 35px;
+}

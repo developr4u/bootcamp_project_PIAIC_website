@@ -1,0 +1,38 @@
+
+$color:#0c3838;
+
+
+.Navbar{
+    background-color:$color  ;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 6px;
+    
+    
+
+}
+
+.hello{
+    flex-grow: unset ;
+}
+
+.ul{
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center; 
+    padding-right: 220px;
+    font-size: 17px;
+    
+    
+}li{
+    padding-right: 50px;
+}
+.ddm{
+    background-color:$color  ;
+}
+.pic{
+    width: 100px;
+    margin-bottom: -120px;
+    margin-left: 120px;
+}
+
